@@ -1,0 +1,6 @@
+{
+  "name": "DealSpot - Real-Time Neighborhood Deals & Stores",
+  "description": "Find real-time flash discounts, clearance items, and grocery deals from verified stores and malls nearby with live Google Maps pinning and location search.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
